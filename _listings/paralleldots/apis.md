@@ -19,7 +19,7 @@ apis:
   tags: Words
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/words/master/_listings/paralleldots/keywords-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/words/master/_listings/paralleldots/multilang-keywords-post.md
 x-common:
 - type: x-blog
   url: https://blog.paralleldots.com/
