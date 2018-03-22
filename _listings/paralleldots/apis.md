@@ -6,9 +6,9 @@ x-kinRank: "9"
 x-alexaRank: ""
 tags:
 - Machine Learning
-created: "2018-03-13"
-modified: "2018-03-13"
-url: https://raw.githubusercontent.com/streamdata-gallery/words/master/_listings/paralleldots/apis.yaml
+created: "2018-03-22"
+modified: "2018-03-22"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/words/master/_listings/paralleldots/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: ParallelDots
@@ -19,7 +19,7 @@ apis:
   tags: Words
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/words/master/_listings/paralleldots/multilang-keywords-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/words/master/_listings/paralleldots/keywords-post.md
 x-common:
 - type: x-blog
   url: https://blog.paralleldots.com/
