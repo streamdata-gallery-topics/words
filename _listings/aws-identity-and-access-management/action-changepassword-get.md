@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=ChangePassword&k=1:
+  /?Action=ChangePassword:
     get:
       summary: ' Change Password '
       description: Changes the password of the IAM user who is calling this action
