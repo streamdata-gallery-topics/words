@@ -34,6 +34,7 @@ paths:
       tags:
       - machine learning
       - keywords
+      - analysis
 definitions: []
 x-collection-name: ParallelDots
 x-streamrank:
