@@ -49,6 +49,28 @@ x-common:
   url: https://aws.amazon.com/cognito/dev-resources/#videos
 - type: x-website
   url: https://aws.amazon.com/cognito/
+- type: x-blog
+  url: https://aws.amazon.com/cognito/dev-resources/#blogposts
+- type: x-documentation
+  url: http://docs.aws.amazon.com/cognito-user-identity-pools/latest/APIReference/Welcome.html
+- type: x-documentation
+  url: http://docs.aws.amazon.com/cognitoidentity/latest/APIReference/Welcome.html
+- type: x-documentation
+  url: http://docs.aws.amazon.com/cognitosync/latest/APIReference/Welcome.html
+- type: x-faq
+  url: http://aws.amazon.com/cognito/faqs
+- type: x-forum
+  url: https://forums.aws.amazon.com/forum.jspa?forumID=173
+- type: x-pricing
+  url: http://aws.amazon.com/cognito/pricing
+- type: x-sdk
+  url: https://aws.amazon.com/cognito/dev-resources/#documentation
+- type: x-slides
+  url: https://aws.amazon.com/cognito/dev-resources/#slides
+- type: x-videos
+  url: https://aws.amazon.com/cognito/dev-resources/#videos
+- type: x-website
+  url: https://aws.amazon.com/cognito/
 include: []
 maintainers:
 - FN: Kin Lane
