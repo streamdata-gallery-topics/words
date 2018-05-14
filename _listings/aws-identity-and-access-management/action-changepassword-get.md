@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Identity and Access Management API
+  title: AWS Identity and Access Management API Change Password
   version: 1.0.0
+  description: Changes the password of the IAM user who is calling this action.
 schemes:
 - http
 produces:
